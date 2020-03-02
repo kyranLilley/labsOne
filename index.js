@@ -4,19 +4,7 @@ let lastname = "lilley";
 var numberAddAgain = 1;
 var anotherFirstName
 
-if (thisVar == 50){
-    this.numberAddAgain++;
 console.log(firstName + " " + lastname);
-//addOne();
-//return numberAddAgain;
-};
-
-// function addOne(){
-//     let numberAddAgain = numberAddAgain + 1;
-// }
-
-console.log(numberAddAgain);
-
 
 var thisNumber = 5;
 var thisOtherNumber = 5;
@@ -27,3 +15,11 @@ console.log("sum = " + sum)
 console.log("sub = " + sub)
 console.log("div = " + div)
 
+// if (thisVar == 50){
+// console.log(firstName + " " + lastname);//this.numberAddAgain++;
+//addOne();
+//return numberAddAgain;
+// };
+// function addOne(){
+//     let numberAddAgain = numberAddAgain + 1;
+// }
